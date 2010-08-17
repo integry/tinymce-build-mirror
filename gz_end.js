@@ -1,1 +1,0 @@
-tinyMCE_GZ.end();
